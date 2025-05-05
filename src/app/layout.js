@@ -17,6 +17,9 @@ export const metadata = {
   title: "Groww | Made by Aman",
   description:
     "This is a next js app from scratch. Used tailiwnd css and react icons",
+  icons: {
+    icon: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({ children }) {
